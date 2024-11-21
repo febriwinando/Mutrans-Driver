@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">MuTrans Driver</string>
+    <string name="fcm_key">AAAAwnxpUaU:APA91bGCtpLuYmQfB-YEYcq1sAxjmtTS0FLzypBIwdM6eg5zKz9DHtQwto0Kh8pMfIlVfx8ALKufRJz--eOyC4EFedYTZ-GRyU3sL30KgUg0bFNE7XuScF96M2D2bBMGgnAM5sj6oagM</string>
+
+    <string name="todo">TODO</string>
+    <string name="mudah_murah_transaksi_dan_transportasi">Mudah Murah Transaksi dan Transportasi</string>
+    <string name="introtext1">Daftar sekarang!</string>
+    <string name="introdesc1">Kemana anda pergi hari ini? Kami siap mengantar kemanapun dan kapanpun</string>
+    <string name="introtext2">Dapat dilacak</string>
+    <string name="introdesc2">Pantau lokasi paket dan driver anda, secara real-time.</string>
+    <string name="introtext3">Pengiriman cepat</string>
+    <string name="introdesc3">Anda dapat tetap produktif saat kami mengambil dan mengantar paket anda, semuanya dalam beberapa saat!</string>
+
+    <string name="exit">Anda yakin akan keluar dari aplikasi?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+
+    <string name="email">Email</string>
+    <string name="verifydesc">Kami mengirimkan kode verifikasi ke nomor anda</string>
+    <string name="norecieve">Saya tidak menerima kode!</string>
+    <string name="resend">Kirim ulang kode</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="privacy">Dengan mendaftar, anda setuju dengan  <![CDATA[<b><font color=#6DC0FF>syarat dan ketentuan</font></b>]]></string>
+
+    <string name="lupa">Lupa Password?</string>
+    <string name="button_signIn">Login</string>
+    <string name="button_signUp"> Registrasi</string>
+    <string name="button_dontHaveAccount">Tidak punya akun?  </string>
+    <string name="wrongnumber">Format nomor ponsel salah </string>
+    <string name="phoneemailwrong">Nomor ponsel atau password anda salah</string>
+    <string name="phonepass">Nomor ponsel dan Password tidak boleh kosong!</string>
+    <string name="phoneempty">Nomor ponsel tidak boleh kosong!</string>
+    <string name="passempty">Password tidak boleh kosong!</string>
+    <string name="emailempty">Email tidak boleh kosong!</string>
+
+    <string name="hint_name">Nama</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor Ponsel</string>
+    <string name="hint_birthday">Tanggal Lahir</string>
+    <string name="hint_password">Password</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_chat">Chat</string>
+    <string name="menu_order">Order</string>
+    <string name="menu_favourite">Favourit</string>
+    <string name="menu_profile">Profil</string>
+    <string name="text_cancel">Batal</string>
+    <string name="getstarted">Ayo Mulai</string>
+
+    <string name="ride_location">Lokasi</string>
+    <string name="ride_destination">Tujuan</string>
+
+    <string name="ride_note">Catatan</string>
+
+    <string name="ride_setPickUp">Set Titik Jemput</string>
+    <string name="ride_setDestination">Set Titik Tujuan</string>
+    <string name="text_order">Order</string>
+    <string name="waiting_pleaseWait">Silahkan Menunggu....</string>
+    <string name="text_noInternet">Tidak ada koneksi internet</string>
+
+    <string name="notification_cancel">Order telah dibatalkan</string>
+    <string name="notification_start">Menuju lokasi tujuan</string>
+    <string name="notification_accept">Membawa Penumpang</string>
+    <string name="notification_finish">Order telah Selesai</string>
+    <string name="waiting_desc">Waiting</string>
+    <string name="password">Password</string>
+    <string name="_62">+62</string>
+    <string name="data_pribadi">Data Pribadi</string>
+    <string name="layanan">Layanan</string>
+    <string name="city">City</string>
+    <string name="alamat">Alamat</string>
+    <string name="kendaraan">Kendaraan</string>
+    <string name="merk">Merk</string>
+    <string name="tipe">Tipe</string>
+    <string name="nomor_kendaraan">Nomor Kendaraan</string>
+    <string name="warna">Warna</string>
+    <string name="upload_ktp">Upload KTP</string>
+    <string name="nomor_ktp">Nomor KTP</string>
+    <string name="upload_sim">Upload SIM</string>
+    <string name="nomor_sim">Nomor SIM</string>
+    <string name="dengan_login_anda_telah_menyetujui_syarat_dan_ketentuan_yang_berlaku">Dengan login anda telah menyetujui syarat dan ketentuan yang berlaku</string>
+    <string name="registrasi">Registrasi</string>
+
+    <string-array name="list_maximum">
+        <item>10000</item>
+        <item>20000</item>
+        <item>30000</item>
+        <item>50000</item>
+        <item>100000</item>
+        <item>Unlimited</item>
+    </string-array>
+
+    <string-array name="gendertype">
+        <item>Pilih Jenis Kelamin</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="jobtype">
+        <item>Pilih Layanan</item>
+        <item>Ride</item>
+        <item>Car</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topup">Topup</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="detail">Detail</string>
+    <string name="_100_00">$100.00</string>
+    <string name="off">OFF</string>
+    <string name="auto_bid">Auto BID</string>
+    <string name="driver">Driver</string>
+    <string name="maksimum_order">Maksimum Order</string>
+    <string name="rp">Rp</string>
+    <string name="uang_masuk">Uang Masuk</string>
+    <string name="rp_26_000_000">+Rp 26.000.000</string>
+    <string name="_12_december_2019">12 December 2019</string>
+    <string name="ubah_profil">Ubah Profil</string>
+    <string name="ganti_password">Ganti Password</string>
+    <string name="qris">QRIS</string>
+    <string name="tentang_kami">Tentang Kami</string>
+    <string name="nilai_aplikasi">Nilai Aplikasi</string>
+    <string name="bagikan_aplikasi">Bagikan Aplikasi</string>
+    <string name="kebijakan">Kebijakan</string>
+    <string name="ubah_kendaraan">Ubah Kendaraan</string>
+    <string name="_4_7">4.7</string>
+    <string name="kontak">Kontak</string>
+    <string name="website">Website</string>
+    <string name="no_data">No Data</string>
+    <string name="accept">Accept</string>
+    <string name="_50_00">$50.00</string>
+    <string name="order_ride">Order Ride</string>
+    <string name="username">Username</string>
+    <string name="_1_january">1 January</string>
+    <string name="pesan_anda">Pesan Anda</string>
+    <string name="layanan_pengantaran">Layanan Pengantaran</string>
+    <string name="_30">30</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="send_detail">Send Detail</string>
+    <string name="produk">produk</string>
+    <string name="nama_pengirim">Nama Pengirim</string>
+    <string name="call">Call</string>
+    <string name="nama_penerima">Nama Penerima</string>
+    <string name="detail_order">Detail Order</string>
+    <string name="perkiraan_waktu">Perkiraan Waktu</string>
+    <string name="jarak_km">Jarak (KM)</string>
+    <string name="biaya">Biaya</string>
+    <string name="total">Total</string>
+    <string name="terima">Terima</string>
+    <string name="typing">Typing...</string>
+    <string name="kirim_pesan_disini">Kirim Pesan Disini</string>
+    <string name="download">Download</string>
+    <string name="makanan">makanan</string>
+    <string name="_1">1</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email_email_com">email@email.com</string>
+    <string name="logout">Logout</string>
+    <string name="status">Status</string>
+    <string name="merchant_info">Merchant Info</string>
+    <string name="nama_merchant">Nama Merchant</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="item">Item</string>
+    <string name="order_cost">Order Cost</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="total_pembayaran">Total Pembayaran</string>
+    <string name="enter_code">enter code!</string>
+    <string name="start">Start</string>
+    <string name="aktifkan_lokasi">Aktifkan Lokasi</string>
+    <string name="anda_harus_mengaktifkan_lokasi_untuk_menggunakan_aplikasi_ini">Anda harus mengaktifkan lokasi untuk menggunakan aplikasi ini</string>
+    <string name="ayo_mulai">Ayo Mulai</string>
+    <string name="simpan">Simpan</string>
+</resources>
